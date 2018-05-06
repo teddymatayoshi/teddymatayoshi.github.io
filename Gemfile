@@ -5,3 +5,4 @@ gemspec
 
 # Added at 2018-05-03 21:29:50 +0900 by teddy:
 gem "jekyll", "~> 3.8"
+gem 'jekyll-admin', group: :jekyll_plugins
