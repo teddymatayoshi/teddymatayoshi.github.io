@@ -4,5 +4,5 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Future portfolio page
+Portfolio page
 
